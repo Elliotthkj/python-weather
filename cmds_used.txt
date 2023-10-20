@@ -1,0 +1,23 @@
+Terminal Commands Used:
+
+1. `py -m venv .venv`:
+   - Create a virtual environment named `.venv` in the current directory for managing project dependencies.
+
+2. `source .venv/Scripts/activate` (on Windows) or `source .venv/bin/activate` (on Unix-based systems):
+   - Activate the virtual environment to isolate your project's dependencies.
+
+3. `pip install requests python-dotenv Flask`:
+   - Install Python packages such as `requests`, `python-dotenv`, and `Flask` commonly used in web development and API requests.
+
+4. `py -m pip install -U pip`:
+   - Upgrade the `pip` package to the latest version to ensure you have the most recent version of the package manager.
+
+5. `pip freeze > requirements.txt`:
+   - Generate a `requirements.txt` file listing installed packages and their versions for documenting project dependencies.
+
+6. `git init`:
+   - Initialize a new Git repository in the current directory to track changes, commit code, and manage project version control.
+
+
+MORE Commands:
+pip install waitress
