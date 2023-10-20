@@ -18,6 +18,6 @@ Terminal Commands Used:
 6. `git init`:
    - Initialize a new Git repository in the current directory to track changes, commit code, and manage project version control.
 
+7. `pip install waitress`:
+   - Install the Waitress web server, a production-quality pure-Python server commonly used to serve web applications.
 
-MORE Commands:
-pip install waitress
